@@ -1,0 +1,6 @@
+
+Same as the ofxARToolkitPlus from https://github.com/karldd/ofxARToolkitPlus but with a working project for Visual Studio 2010
+ 
+- Works with Openframeworks 0.7
+- addon folder
+- example
